@@ -1,0 +1,71 @@
+
+{
+    "home": "Home",
+    "about": "About",
+    "projects": "Projects",
+    "contact": "Contact",
+    "language": "Language",
+    
+    "omkar": "Omkar Chavan",
+    "FullStackDeveloper": "Full Stack Developer",
+    "freeLancer": "Free Lancer",
+    "heyIAm": "Hey, I am",
+    "buildingYourDream": "Building your dream",
+    "pixel": "pixel",
+    "by": "by",
+    "readMore": "Read More",
+
+    "aboutTitle": "Why hire me for your",
+    "nextproject": "next project?",
+    "aboutDescription":"I am a third-year BE AI & ML Engineering student with a specialization Honors in Data Science, skilled in both data-driven problem solving and full stack development (MERN + Next.js). With hands-on experience in Python, Java, C++, SQL, and applied machine learning projects, I bring a strong foundation in data analytics, DSA, and software engineering principles. My passion lies in creating scalable web applications and delivering intelligent data-driven solutions that make an impact.",
+    "experienceYears": "3 years",
+    "experience": "Experience",
+    "projectsGithub": "Featured Projects",
+    "portfolioButton": "Portfolio",
+    "downloadCVButton": "Download CV",
+
+    "journeyTitle": "My Academic and Professional Journey",
+    "education": "Education",
+    "school": " St Mary’s Multipurpose High School,Vashi",
+    "Diploma": " Bharati Vidyapeeth Institute of Technology",
+    "Engg": " Zeal College of Engineering and Research",
+    
+    "professionalExperience": "Professional Experience",
+    "webinternship": " Web Developement Internship",
+    "javainternship": "Java Full-Stack Web Development Internship",
+    
+
+
+    "tools": "Tools",
+    "skills": "Skills",
+    "and": "and",
+    "Front-end": "Front-end",
+    "Back-end": "Back-end",
+    "Desenvolvimento Web": "Web Development",
+    "Desenvolvimento de Software": "Software Development",
+
+    "portfolioTitle": "My Portfolio",
+    "viewMoreProjects": "View More Projects",
+    "github": "GitHub",
+    "demo": "Demo",
+    "viewMore": "View More",
+    "technologies": "Technologies",
+    "project1Title": "EchoWrite-AI",
+    "project1Description": "AI-powered YouTube Transcriber → Convert any YouTube video into text, translate to English, summarize with AI, and download transcripts. Free, fast, and simple — with optional login to save history.",
+    "project2Title": "AnonConnect",
+    "project2Description": "AnonConnect is an anonymous chat platform with themed rooms like Fun Chat, Study, Coding, Gaming,Startups and many more . Built with React + Firebase, it offers real-time chats, a clean mobile-friendly UI, and an AI-powered assistant for witty, helpful replies.",
+    "project3Title": "Online News Portal",
+    "project3Description": "A Python Django-based News Portal with a built-in CMS (Content Management System) and User Authentication Users can sign up, log in, and view news articles, while admins can manage content via the CMS dashboard.",
+    "project4Title": "Portfolio V1",
+    "project4Description": "A responsive and modern Portfolio Website built using React.js and Tailwind CSS, showcasing my skills, certifications, projects, and contact options — with smooth UI and form integration via Web3Forms.",
+    "project5Title": "Heart Disease Prediction",
+    "project5Description": "The Heart Disease Prediction project is a machine-learning web app that predicts the likelihood of heart disease based on user health data such as age, cholesterol, blood pressure, and chest pain type.Built with Python, Flask, and scikit-learn, it uses a trained classification model to analyze inputs and provide quick risk assessment.",
+    "project6Title": "GenZOne - AI-Powered Trends Platform",
+    "project6Description": "GenZOne is a full-stack Next.js application that delivers the latest global trends infashion, food, culture, technology, and more.It’s designed for Gen Z and future generations to explore real-time trends, chat with an AI trend expert, and generate creative text & images.",
+
+    
+  "footer": {
+    "copyRight": "© {{year}} Omkar Chavan. All rights reserved."
+  }
+}
+  

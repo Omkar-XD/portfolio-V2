@@ -1,0 +1,66 @@
+{
+  "home": "Inicio",
+  "about": "Acerca de",
+  "projects": "Proyectos",
+  "contact": "Contacto",
+  "language": "Idioma",
+
+  "omkar": "Omkar",
+  "FullStackDeveloper": "Desarrollador Full Stack",
+  "freeLancer": "Freelancer",
+  "heyIAm": "Hola, soy",
+  "buildingYourDream": "Construyendo tu sueño",
+  "pixel": "píxel",
+  "by": "por",
+  "readMore": "Leer más",
+
+  "aboutTitle": "¿Por qué contratarme para tu",
+  "nextproject": "próximo proyecto?",
+  "aboutDescription": "Soy estudiante de tercer año de Ingeniería BE en IA y ML con especialización en Ciencia de Datos, experto tanto en resolución de problemas basada en datos como en desarrollo full stack (MERN + Next.js). Con experiencia práctica en Python, Java, C++, SQL y proyectos de aprendizaje automático, tengo una sólida base en análisis de datos, DSA y principios de ingeniería de software. Mi pasión es crear aplicaciones web escalables y ofrecer soluciones inteligentes basadas en datos que generen impacto.",
+  "experienceYears": "3 años",
+  "experience": "Experiencia",
+  "projectsGithub": "Proyectos Destacados",
+  "portfolioButton": "Portafolio",
+  "downloadCVButton": "Descargar CV",
+
+  "journeyTitle": "Mi Trayectoria Académica y Profesional",
+  "education": "Educación",
+  "school": "St Mary’s Multipurpose High School, Vashi",
+  "Diploma": "Instituto de Tecnología Bharati Vidyapeeth",
+  "Engg": "Zeal College of Engineering and Research",
+  
+  "professionalExperience": "Experiencia Profesional",
+  "webinternship": "Prácticas en Desarrollo Web",
+  "javainternship": "Prácticas en Desarrollo Web Full Stack con Java",
+
+  "tools": "Herramientas",
+  "skills": "Habilidades",
+  "and": "y",
+  "Front-end": "Front-end",
+  "Back-end": "Back-end",
+  "Desenvolvimento Web": "Desarrollo Web",
+  "Desenvolvimento de Software": "Desarrollo de Software",
+
+  "portfolioTitle": "Mi Portafolio",
+  "viewMoreProjects": "Ver más proyectos",
+  "github": "GitHub",
+  "demo": "Demo",
+  "viewMore": "Ver más",
+  "technologies": "Tecnologías",
+  "project1Title": "EchoWrite-AI",
+  "project1Description": "Transcriptor de YouTube impulsado por IA → Convierte cualquier video de YouTube en texto, traduce al inglés, resume con IA y descarga las transcripciones. Gratis, rápido y sencillo, con inicio de sesión opcional para guardar el historial.",
+  "project2Title": "AnonConnect",
+  "project2Description": "AnonConnect es una plataforma de chat anónimo con salas temáticas como Chat Divertido, Estudio, Programación, Gaming, Startups y más. Construido con React + Firebase, ofrece chats en tiempo real, una interfaz móvil limpia y un asistente de IA para respuestas ingeniosas y útiles.",
+  "project3Title": "Portal de Noticias en Línea",
+  "project3Description": "Un portal de noticias basado en Python Django con un CMS (Sistema de Gestión de Contenidos) integrado y autenticación de usuarios. Los usuarios pueden registrarse, iniciar sesión y ver artículos, mientras que los administradores gestionan el contenido desde el panel de control.",
+  "project4Title": "Portafolio V1",
+  "project4Description": "Un sitio web de portafolio moderno y responsivo creado con React.js y Tailwind CSS, que muestra mis habilidades, certificaciones, proyectos y opciones de contacto, con una interfaz fluida e integración de formularios mediante Web3Forms.",
+  "project5Title": "Predicción de Enfermedades Cardíacas",
+  "project5Description": "Aplicación web de aprendizaje automático que predice la probabilidad de enfermedades cardíacas según datos de salud del usuario como edad, colesterol, presión arterial y tipo de dolor torácico. Construida con Python, Flask y scikit-learn, utiliza un modelo de clasificación entrenado para analizar los datos y proporcionar una evaluación rápida del riesgo.",
+  "project6Title": "GenZOne - Plataforma de Tendencias con IA",
+  "project6Description": "GenZOne es una aplicación full stack en Next.js que ofrece las últimas tendencias globales en moda, comida, cultura, tecnología y más. Diseñada para la Generación Z y las futuras generaciones, permite explorar tendencias en tiempo real, chatear con un experto de IA en tendencias y generar texto e imágenes creativas.",
+
+  "footer": {
+    "copyRight": "© {{year}} Omkar Chavan. Todos los derechos reservados."
+  }
+}
