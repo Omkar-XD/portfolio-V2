@@ -1,5 +1,5 @@
 import React from 'react';
-import imgAbout from "../../assets/me.jpeg";
+import imgAbout from "../../assets/me.jpg";
 import { useTranslation } from 'react-i18next';
 import resume from '../../assets/myresume.pdf';
 
@@ -98,8 +98,20 @@ function About() {
                 </div>
               </li>
               <li>
-              {/* add exp here */}
-              </li>
+  <div className="bg-white/10 p-4 rounded-[5px] shadow-sm transition hover:bg-white/20">
+    <span className="block text-sm gradient-text mb-2">
+      Remote · Dec 2025 – Mar 2026 · 4 mos
+    </span>
+
+    <h4 className="text-lg mb-2">
+      Machine Learning Intern
+    </h4>
+
+    <p className="text-base text-white/80">
+      CreativeArc Services Pvt. Ltd. · Internship
+    </p>
+  </div>
+</li>
               <li>
                  {/* add exp here */}
               </li>

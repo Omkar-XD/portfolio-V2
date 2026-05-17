@@ -1,67 +1,157 @@
 {
   "home": "Inicio",
+
   "about": "Acerca de",
+
   "projects": "Proyectos",
+
   "contact": "Contacto",
+
   "language": "Idioma",
-  
-  "omkar": "Omkar",
-  "FullStackDeveloper": "Desarrollador Full Stack",
+
+  "omkar": "Omkar Chavan",
+
+  "FullStackDeveloper":
+    "Desarrollador Full Stack",
+
   "freeLancer": "Freelancer",
+
   "heyIAm": "Hola, soy",
-  "buildingYourDream": "Construyendo tu sueño",
+
+  "buildingYourDream":
+    "Construyendo tu sueño",
+
   "pixel": "píxel",
+
   "by": "por",
+
   "readMore": "Leer más",
 
-  "aboutTitle": "¿Por qué contratarme para tu",
-  "nextproject": "próximo proyecto?",
-  "aboutDescription": "Soy un estudiante de tercer año de Ingeniería en IA y ML con especialización (Honores) en Ciencia de Datos, capacitado tanto en resolución de problemas basados en datos como en desarrollo full stack (MERN + Next.js). Con experiencia práctica en Python, Java, C++, SQL y proyectos de machine learning, aporto una sólida base en análisis de datos, DSA y principios de ingeniería de software. Mi pasión es crear aplicaciones web escalables y ofrecer soluciones inteligentes basadas en datos que generen impacto.",
-  "experienceYears": "3 años",
-  "experience": "Experiencia",
-  "projectsGithub": "Proyectos Destacados",
-  "portfolioButton": "Portafolio",
-  "downloadCVButton": "Descargar CV",
+  "aboutTitle":
+    "¿Por qué contratarme para tu",
 
-  "journeyTitle": "Mi Trayectoria Académica y Profesional",
-  "education": "Educación",
-  "school": " St Mary’s Multipurpose High School, Vashi",
-  "Diploma": " Bharati Vidyapeeth Institute of Technology",
-  "Engg": " Zeal College of Engineering and Research",
-  
-  "professionalExperience": "Experiencia Profesional",
-  "webinternship": "Prácticas de Desarrollo Web",
-  "javainternship": "Prácticas de Desarrollo Web Full-Stack en Java",
-  
-  "tools": "Herramientas",
-  "skills": "Habilidades",
-  "and": "y",
-  "Front-end": "Front-end",
-  "Back-end": "Back-end",
-  "Desenvolvimento Web": "Desarrollo Web",
-  "Desenvolvimento de Software": "Desarrollo de Software",
+  "nextproject":
+    "próximo proyecto?",
 
-  "portfolioTitle": "Mi Portafolio",
-  "viewMoreProjects": "Ver más proyectos",
-  "github": "GitHub",
-  "demo": "Demostración",
-  "viewMore": "Ver más",
-  "technologies": "Tecnologías",
+  "aboutDescription":
+    "Soy desarrollador Full Stack MERN y estudiante de Ingeniería en IA y ML, apasionado por crear aplicaciones web escalables y soluciones digitales inteligentes. Disfruto transformar ideas en productos reales utilizando tecnologías como React.js, Next.js, Node.js, MongoDB, TypeScript y Python. A través de trabajos freelance, prácticas y proyectos personales, he adquirido experiencia práctica desarrollando aplicaciones listas para producción, integrando APIs y trabajando con soluciones basadas en datos. Estoy especialmente interesado en combinar el desarrollo web moderno con inteligencia artificial y resolución de problemas para crear experiencias digitales impactantes.",
 
-  "project1Title": "EchoWrite-AI",
-  "project1Description": "Transcriptor de YouTube impulsado por IA → Convierte cualquier video de YouTube en texto, tradúcelo al inglés, genera resúmenes con IA y descarga las transcripciones. Gratis, rápido y sencillo, con inicio de sesión opcional para guardar el historial.",
-  "project2Title": "AnonConnect",
-  "project2Description": "AnonConnect es una plataforma de chat anónimo con salas temáticas como Chat Divertido, Estudio, Programación, Gaming, Startups y muchas más. Desarrollada con React + Firebase, ofrece chats en tiempo real, una interfaz limpia y adaptable a móviles, y un asistente con IA para respuestas ingeniosas y útiles.",
-  "project3Title": "Portal de Noticias en Línea",
-  "project3Description": "Un portal de noticias basado en Python Django con un sistema CMS incorporado y autenticación de usuarios. Los usuarios pueden registrarse, iniciar sesión y ver artículos de noticias, mientras que los administradores gestionan el contenido desde el panel de control del CMS.",
-  "project4Title": "Portafolio V1",
-  "project4Description": "Un sitio web de portafolio moderno y responsivo creado con React.js y Tailwind CSS, que muestra mis habilidades, certificaciones, proyectos y opciones de contacto, con una interfaz fluida e integración de formularios mediante Web3Forms.",
-  "project5Title": "Predicción de Enfermedades Cardíacas",
-  "project5Description": "Proyecto de machine learning que predice la probabilidad de enfermedades cardíacas a partir de datos de salud del usuario como edad, colesterol, presión arterial y tipo de dolor torácico. Desarrollado con Python, Flask y scikit-learn, utiliza un modelo de clasificación entrenado para analizar los datos y proporcionar una evaluación de riesgo rápida.",
-  "project6Title": "GenZOne - Plataforma de Tendencias con IA",
-  "project6Description": "GenZOne es una aplicación full-stack en Next.js que ofrece las últimas tendencias globales en moda, comida, cultura, tecnología y más. Está diseñada para la Generación Z y las futuras generaciones, permitiendo explorar tendencias en tiempo real, chatear con un experto en tendencias impulsado por IA y generar texto e imágenes creativas.",
+  "experienceYears":
+    "1 Año",
+
+  "experience":
+    "Experiencia",
+
+  "projectsGithub":
+    "Proyectos Destacados",
+
+  "portfolioButton":
+    "Portafolio",
+
+  "downloadCVButton":
+    "Descargar CV",
+
+  "journeyTitle":
+    "Mi Trayectoria Académica y Profesional",
+
+  "education":
+    "Educación",
+
+  "school":
+    "St Mary’s Multipurpose High School, Vashi",
+
+  "Diploma":
+    "Instituto de Tecnología Bharati Vidyapeeth",
+
+  "Engg":
+    "Zeal College of Engineering and Research",
+
+  "professionalExperience":
+    "Experiencia Profesional",
+
+  "webinternship":
+    "Prácticas de Desarrollo Web",
+
+  "javainternship":
+    "Prácticas de Desarrollo Web Full-Stack en Java",
+
+  "tools":
+    "Herramientas",
+
+  "skills":
+    "Habilidades",
+
+  "and":
+    "y",
+
+  "Front-end":
+    "Front-end",
+
+  "Back-end":
+    "Back-end",
+
+  "Desenvolvimento Web":
+    "Desarrollo Web",
+
+  "Desenvolvimento de Software":
+    "Desarrollo de Software",
+
+  "portfolioTitle":
+    "Mi Portafolio",
+
+  "viewMoreProjects":
+    "Ver Más Proyectos",
+
+  "github":
+    "GitHub",
+
+  "demo":
+    "Demostración",
+
+  "viewMore":
+    "Ver Más",
+
+  "technologies":
+    "Tecnologías",
+
+  "project1Title":
+    "Rise N Shine Coaching",
+
+  "project1Description":
+    "Sitio web profesional para instituto educativo diseñado para promoción de cursos, interacción estudiantil, diseño responsivo y experiencia frontend moderna usando React.js y Tailwind CSS.",
+
+  "project2Title":
+    "Saraswati Classes",
+
+  "project2Description":
+    "Sitio web educativo para instituto académico con interfaz moderna, diseño responsivo y secciones enfocadas en estudiantes para mejorar la presencia digital y experiencia del usuario.",
+
+  "project3Title":
+    "Legacy XI Store",
+
+  "project3Description":
+    "Plataforma moderna de ecommerce full stack con autenticación, panel de administración, gestión de productos, rutas protegidas, integración con MongoDB y experiencia de compra responsiva.",
+
+  "project4Title":
+    "Portal de Noticias Online",
+
+  "project4Description":
+    "Portal de noticias desarrollado con Python Django que incluye CMS y autenticación de usuarios. Los usuarios pueden explorar noticias categorizadas mientras los administradores gestionan artículos desde el panel.",
+
+  "project5Title":
+    "HoryX Chatbot",
+
+  "project5Description":
+    "Plataforma de chatbot impulsada por IA con interfaz moderna, conversaciones interactivas, diseño responsivo y experiencia frontend inteligente construida con React.js y Tailwind CSS.",
+
+  "project6Title":
+    "Landing Page de Restaurante",
+
+  "project6Description":
+    "Landing page moderna y responsiva para restaurante con secciones gastronómicas, diseño elegante y experiencia frontend optimizada usando React.js y Tailwind CSS.",
 
   "footer": {
-    "copyRight": "© {{year}} Omkar Chavan. Todos los derechos reservados."
+    "copyRight":
+      "© {{year}} Omkar Chavan. Todos los derechos reservados."
   }
 }
