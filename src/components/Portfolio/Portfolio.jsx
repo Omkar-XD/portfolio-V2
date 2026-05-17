@@ -331,28 +331,30 @@ function Portfolio() {
       {/* VIEW MORE PROJECTS */}
       <div className="flex justify-center mt-14">
 
-        <a
-          href="https://omkarchavan-portfolio-gallery.netlify.app/"
-          target="_blank"
-          rel="noopener noreferrer"
-          className="
-            bg-gradient-to-r
-            from-purple-500
-            to-indigo-500
-            text-white
-            py-3
-            px-8
-            rounded-xl
-            text-lg
-            font-semibold
-            transition-all
-            duration-300
-            hover:scale-105
-            hover:shadow-2xl
-          "
-        >
-          View More Projects
-        </a>
+        <div className="flex justify-center mt-14">
+
+  <a
+    href="https://omkarchavan-portfolio-gallery.netlify.app/"
+    className="
+      bg-gradient-to-r
+      from-purple-500
+      to-indigo-500
+      text-white
+      py-3
+      px-8
+      rounded-xl
+      text-lg
+      font-semibold
+      transition-all
+      duration-300
+      hover:scale-105
+      hover:shadow-2xl
+    "
+  >
+    View More Projects
+  </a>
+
+</div>
 
       </div>
 
